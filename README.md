@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 📫 How to reach me:  
   
+https://anup-vasudevan.medium.com/  
 https://twitter.com/thechronicler  
 https://www.linkedin.com/in/anupvasudevan  
 https://servingniches.org/  
