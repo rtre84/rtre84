@@ -35,6 +35,7 @@ https://servingniches.org/
 
 ## Data Science
 [![](https://github-readme-stats.vercel.app/api/pin/?username=rtre84&repo=Spark-Twitter-Sentiment&hide_border=true&theme=dark)](https://github.com/rtre84/Spark-Twitter-Sentiment)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=rtre84&repo=guitar_transcription_service_ml&hide_border=true&theme=dark)](https://github.com/rtre84/guitar_transcription_service_ml)
 
 ## Blockchain
 [![](https://github-readme-stats.vercel.app/api/pin/?username=rtre84&repo=reef-lambda-payments&hide_border=true&theme=dark)](https://github.com/rtre84/reef-lambda-payments)
