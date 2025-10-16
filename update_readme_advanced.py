@@ -10,6 +10,7 @@ import json
 import requests
 from datetime import datetime
 from typing import Dict, Any
+import urllib.parse
 
 class AdvancedGitHubUpdater:
     def __init__(self, token: str, username: str):
@@ -136,7 +137,8 @@ class AdvancedGitHubUpdater:
         for edge in starred:
             repo = edge['node']
             lang = repo['primaryLanguage']
-            lang_badge = f"![{lang['name']}](https://img.shields.io/badge/-{lang['name']}-{lang['color']}?style=flat-square)" if lang else ""
+            # lang_badge = f"![{lang['name']}](https://img.shields.io/badge/-{lang['name']}-{lang['color']}?style=flat-square)" if lang else ""
+            lang_badge = f"![](https://img.shields.io/badge/{urllib.parse.quote(lang['name'])}-{lang['color']}?style=for-the-badge)" if lang else ""
             
             lines.append(f"- ⭐ [{repo['owner']['login']}/{repo['name']}]({repo['url']}) {lang_badge}")
             if repo['description']:
