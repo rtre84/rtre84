@@ -21,10 +21,20 @@ https://twitter.com/thechronicler
 https://www.linkedin.com/in/anupvasudevan  
 https://servingniches.org/  
 
-<!--
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Latest Starred Repositories
+
+<!-- STARS:START -->
+<!-- STARS:END -->
+
+## 🔀 Recent Pull Requests
+
+<!-- PRS:START -->
+<!-- PRS:END -->
+
+## 📝 Recent Commits
+
+<!-- COMMITS:START -->
+<!-- COMMITS:END -->
 
 # Projects
 
