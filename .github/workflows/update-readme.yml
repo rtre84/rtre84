@@ -23,7 +23,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.GH_TOKEN }}
     
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -37,7 +37,7 @@ jobs:
     
     - name: Update README
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         GITHUB_USERNAME: ${{ github.repository_owner }}
         GITHUB_REPOSITORY: ${{ github.repository }}
       run: |
