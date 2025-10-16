@@ -24,29 +24,29 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
-- ⭐ [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-#DA5B0B?style=flat-square)
+- ⭐ [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) ![](https://img.shields.io/badge/Jupyter%20Notebook-#DA5B0B?style=for-the-badge)
   - 📝 A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Financ...
   - 📊 Stars: 22,520 | Forks: 3,039 | Issues: 74
   - ⏰ Starred: 2025-10-11
 
-- ⭐ [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-#DA5B0B?style=flat-square)
+- ⭐ [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) ![](https://img.shields.io/badge/Jupyter%20Notebook-#DA5B0B?style=for-the-badge)
   - 📝 Implement a ChatGPT-like LLM in PyTorch from scratch, step by step...
-  - 📊 Stars: 75,533 | Forks: 11,084 | Issues: 202
+  - 📊 Stars: 75,534 | Forks: 11,084 | Issues: 202
   - ⏰ Starred: 2025-10-08
 
-- ⭐ [ardalann/statement2csv](https://github.com/ardalann/statement2csv) ![JavaScript](https://img.shields.io/badge/-JavaScript-#f1e05a?style=flat-square)
+- ⭐ [ardalann/statement2csv](https://github.com/ardalann/statement2csv) ![](https://img.shields.io/badge/JavaScript-#f1e05a?style=for-the-badge)
   - 📝 Convert your bank statement PDF to a standard CSV...
   - 📊 Stars: 28 | Forks: 7 | Issues: 1
   - ⏰ Starred: 2025-09-28
 
-- ⭐ [benjamin-awd/StatementSensei](https://github.com/benjamin-awd/StatementSensei) ![Python](https://img.shields.io/badge/-Python-#3572A5?style=flat-square)
+- ⭐ [benjamin-awd/StatementSensei](https://github.com/benjamin-awd/StatementSensei) ![](https://img.shields.io/badge/Python-#3572A5?style=for-the-badge)
   - 📝 PDF to CSV conversion for your bank statements...
   - 📊 Stars: 144 | Forks: 35 | Issues: 21
   - ⏰ Starred: 2025-09-28
 
-- ⭐ [basecamp/omarchy](https://github.com/basecamp/omarchy) ![Shell](https://img.shields.io/badge/-Shell-#89e051?style=flat-square)
+- ⭐ [basecamp/omarchy](https://github.com/basecamp/omarchy) ![](https://img.shields.io/badge/Shell-#89e051?style=for-the-badge)
   - 📝 Opinionated Arch/Hyprland Setup...
-  - 📊 Stars: 14,271 | Forks: 1,316 | Issues: 1095
+  - 📊 Stars: 14,273 | Forks: 1,316 | Issues: 1095
   - ⏰ Starred: 2025-09-24
 <!-- STARS:END -->
 
@@ -119,16 +119,16 @@ https://servingniches.org/
 ## 📊 Contribution Statistics
 
 <!-- STATS:START -->
-- 📊 **Total Contributions:** 153
-- 💻 **Commits:** 75
+- 📊 **Total Contributions:** 154
+- 💻 **Commits:** 76
 - 🔀 **Pull Requests:** 64
 - 🐛 **Issues:** 0
 - 👀 **Code Reviews:** 0
-- 🔥 **Current Streak:** 35 days
+- 🔥 **Current Streak:** 36 days
 <!-- STATS:END -->
 
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2025-10-16 03:59:07 UTC
+🔄 Last updated: 2025-10-16 04:37:49 UTC
 <!-- UPDATED:END -->
