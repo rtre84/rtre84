@@ -30,12 +30,12 @@ https://servingniches.org/
 
 - ⭐ [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) ![](https://img.shields.io/badge/Jupyter%20Notebook--#DA5B0B?style=flat-square)
   - 📝 A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Financ...
-  - 📊 Stars: 22,576 | Forks: 3,044 | Issues: 74
+  - 📊 Stars: 22,588 | Forks: 3,044 | Issues: 74
   - ⏰ Starred: 2025-10-11
 
 - ⭐ [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) ![](https://img.shields.io/badge/Jupyter%20Notebook--#DA5B0B?style=flat-square)
   - 📝 Implement a ChatGPT-like LLM in PyTorch from scratch, step by step...
-  - 📊 Stars: 75,710 | Forks: 11,111 | Issues: 202
+  - 📊 Stars: 75,762 | Forks: 11,123 | Issues: 202
   - ⏰ Starred: 2025-10-08
 
 - ⭐ [ardalann/statement2csv](https://github.com/ardalann/statement2csv) ![](https://img.shields.io/badge/JavaScript--#f1e05a?style=flat-square)
@@ -45,7 +45,7 @@ https://servingniches.org/
 
 - ⭐ [benjamin-awd/StatementSensei](https://github.com/benjamin-awd/StatementSensei) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
   - 📝 PDF to CSV conversion for your bank statements...
-  - 📊 Stars: 147 | Forks: 36 | Issues: 21
+  - 📊 Stars: 148 | Forks: 36 | Issues: 21
   - ⏰ Starred: 2025-09-28
 <!-- STARS:END -->
 
@@ -118,9 +118,9 @@ https://servingniches.org/
 ## 📊 Contribution Statistics
 
 <!-- STATS:START -->
-- 📊 **Total Contributions:** 158
+- 📊 **Total Contributions:** 154
 - 💻 **Commits:** 80
-- 🔀 **Pull Requests:** 64
+- 🔀 **Pull Requests:** 60
 - 🐛 **Issues:** 0
 - 👀 **Code Reviews:** 0
 - 🔥 **Current Streak:** 34 days
@@ -129,5 +129,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2025-10-19 00:14:16 UTC
+🔄 Last updated: 2025-10-20 00:14:09 UTC
 <!-- UPDATED:END -->
