@@ -244,9 +244,9 @@ class AdvancedGitHubUpdater:
             # Format all sections
             sections = {
                 'stars': self.format_starred_with_details(data),
-                'prs': self.format_prs_with_stats(data),
+                # 'prs': self.format_prs_with_stats(data),
                 'commits': self.format_recent_commits_from_repos(data),
-                'stats': self.format_contribution_stats(data)
+                # 'stats': self.format_contribution_stats(data)
             }
             
             # Read current README
