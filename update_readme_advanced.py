@@ -62,24 +62,24 @@ class AdvancedGitHubUpdater:
             }}
             
             # Recent pull requests
-            pullRequests(first: 5, orderBy: {{field: CREATED_AT, direction: DESC}}) {{
-              nodes {{
-                title
-                url
-                state
-                createdAt
-                merged
-                repository {{
-                  name
-                  owner {{
-                    login
-                  }}
-                }}
-                additions
-                deletions
-                changedFiles
-              }}
-            }}
+            # pullRequests(first: 5, orderBy: {{field: CREATED_AT, direction: DESC}}) {{
+            #   nodes {{
+            #     title
+            #     url
+            #     state
+            #     createdAt
+            #     merged
+            #     repository {{
+            #       name
+            #       owner {{
+            #         login
+            #       }}
+            #     }}
+            #     additions
+            #     deletions
+            #     changedFiles
+            #   }}
+            # }}
             
             # Recent repositories with commits
             repositories(first: 10, orderBy: {{field: PUSHED_AT, direction: DESC}}, privacy: PUBLIC) {{
@@ -143,8 +143,8 @@ class AdvancedGitHubUpdater:
             lines.append(f"- ⭐ [{repo['owner']['login']}/{repo['name']}]({repo['url']}) {lang_badge}")
             if repo['description']:
                 lines.append(f"  - 📝 {repo['description'][:100]}...")
-            lines.append(f"  - 📊 Stars: {repo['stargazerCount']:,} | Forks: {repo['forkCount']:,} | Issues: {repo['issues']['totalCount']}")
-            lines.append(f"  - ⏰ Starred: {edge['starredAt'][:10]}")
+            # lines.append(f"  - 📊 Stars: {repo['stargazerCount']:,} | Forks: {repo['forkCount']:,} | Issues: {repo['issues']['totalCount']}")
+            # lines.append(f"  - ⏰ Starred: {edge['starredAt'][:10]}")
             lines.append("")
         
         return '\n'.join(lines[:-1])  # Remove last empty line
