@@ -62,24 +62,24 @@ class AdvancedGitHubUpdater:
             }}
             
             # Recent pull requests
-            # pullRequests(first: 5, orderBy: {{field: CREATED_AT, direction: DESC}}) {{
-            #   nodes {{
-            #     title
-            #     url
-            #     state
-            #     createdAt
-            #     merged
-            #     repository {{
-            #       name
-            #       owner {{
-            #         login
-            #       }}
-            #     }}
-            #     additions
-            #     deletions
-            #     changedFiles
-            #   }}
-            # }}
+            pullRequests(first: 5, orderBy: {{field: CREATED_AT, direction: DESC}}) {{
+              nodes {{
+                title
+                url
+                state
+                createdAt
+                merged
+                repository {{
+                  name
+                  owner {{
+                    login
+                  }}
+                }}
+                additions
+                deletions
+                changedFiles
+              }}
+            }}
             
             # Recent repositories with commits
             repositories(first: 10, orderBy: {{field: PUSHED_AT, direction: DESC}}, privacy: PUBLIC) {{
@@ -149,24 +149,24 @@ class AdvancedGitHubUpdater:
         
         return '\n'.join(lines[:-1])  # Remove last empty line
     
-    def format_prs_with_stats(self, data: Dict) -> str:
-        """Format pull requests with statistics"""
-        prs = data['data']['user']['pullRequests']['nodes']
+    # def format_prs_with_stats(self, data: Dict) -> str:
+    #     """Format pull requests with statistics"""
+    #     prs = data['data']['user']['pullRequests']['nodes']
         
-        if not prs:
-            return "No recent pull requests"
+    #     if not prs:
+    #         return "No recent pull requests"
         
-        lines = []
-        for pr in prs:
-            state_emoji = "🟢" if pr['state'] == 'OPEN' else ("🟣" if pr['merged'] else "🔴")
+    #     lines = []
+    #     for pr in prs:
+    #         state_emoji = "🟢" if pr['state'] == 'OPEN' else ("🟣" if pr['merged'] else "🔴")
             
-            lines.append(f"- {state_emoji} [{pr['title']}]({pr['url']})")
-            lines.append(f"  - 📁 Repository: {pr['repository']['owner']['login']}/{pr['repository']['name']}")
-            lines.append(f"  - 📈 Changes: +{pr['additions']} -{ pr['deletions']} in {pr['changedFiles']} files")
-            lines.append(f"  - 📅 Created: {pr['createdAt'][:10]}")
-            lines.append("")
+    #         lines.append(f"- {state_emoji} [{pr['title']}]({pr['url']})")
+    #         lines.append(f"  - 📁 Repository: {pr['repository']['owner']['login']}/{pr['repository']['name']}")
+    #         lines.append(f"  - 📈 Changes: +{pr['additions']} -{ pr['deletions']} in {pr['changedFiles']} files")
+    #         lines.append(f"  - 📅 Created: {pr['createdAt'][:10]}")
+    #         lines.append("")
         
-        return '\n'.join(lines[:-1])
+    #     return '\n'.join(lines[:-1])
     
     def format_recent_commits_from_repos(self, data: Dict) -> str:
         """Format recent commits from user's repositories"""
