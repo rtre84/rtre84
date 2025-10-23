@@ -39,35 +39,6 @@ https://servingniches.org/
   - 📝 PDF to CSV conversion for your bank statements...
 <!-- STARS:END -->
 
-## 🔀 Recent Pull Requests
-
-<!-- PRS:START -->
-- 🟢 [[Snyk] Security upgrade auth0-js from 9.18.0 to 9.29.0](https://github.com/ServingNiches/store.gatsbyjs.org/pull/87)
-  - 📁 Repository: ServingNiches/store.gatsbyjs.org
-  - 📈 Changes: +252 -44 in 2 files
-  - 📅 Created: 2025-10-11
-
-- 🟢 [[Snyk] Security upgrade gatsby from 2.32.13 to 3.13.0](https://github.com/ServingNiches/gatsby-servingniches/pull/129)
-  - 📁 Repository: ServingNiches/gatsby-servingniches
-  - 📈 Changes: +16987 -11324 in 2 files
-  - 📅 Created: 2025-09-21
-
-- 🟢 [[Snyk] Security upgrade gatsby from 2.32.13 to 3.13.0](https://github.com/ServingNiches/store.gatsbyjs.org/pull/86)
-  - 📁 Repository: ServingNiches/store.gatsbyjs.org
-  - 📈 Changes: +4525 -3413 in 2 files
-  - 📅 Created: 2025-09-20
-
-- 🟢 [[Snyk] Security upgrade gatsby from 2.32.13 to 5.14.0](https://github.com/ServingNiches/gatsby-servingniches/pull/128)
-  - 📁 Repository: ServingNiches/gatsby-servingniches
-  - 📈 Changes: +29792 -29337 in 2 files
-  - 📅 Created: 2025-09-14
-
-- 🟢 [[Snyk] Fix for 1 vulnerabilities](https://github.com/ServingNiches/store.gatsbyjs.org/pull/85)
-  - 📁 Repository: ServingNiches/store.gatsbyjs.org
-  - 📈 Changes: +6694 -5601 in 2 files
-  - 📅 Created: 2025-09-13
-<!-- PRS:END -->
-
 ## 📝 Recent Commits
 
 <!-- COMMITS:START -->
@@ -103,18 +74,6 @@ https://servingniches.org/
 [![](https://github-readme-stats.vercel.app/api/pin/?username=cbonoz&repo=vocalcoin&hide_border=true&theme=dark)](https://github.com/cbonoz/vocalcoin)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=rtre84&repo=crypto-soccer&hide_border=true&theme=dark)](https://github.com/rtre84/crypto-soccer)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=rtre84&repo=angular4-truffle-crypto-dapp&hide_border=true&theme=dark)](https://github.com/rtre84/angular4-truffle-crypto-dapp)
-
-
-## 📊 Contribution Statistics
-
-<!-- STATS:START -->
-- 📊 **Total Contributions:** 154
-- 💻 **Commits:** 80
-- 🔀 **Pull Requests:** 60
-- 🐛 **Issues:** 0
-- 👀 **Code Reviews:** 0
-- 🔥 **Current Streak:** 34 days
-<!-- STATS:END -->
 
 ---
 
