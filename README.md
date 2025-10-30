@@ -24,6 +24,9 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [pedropark99/zig-book](https://github.com/pedropark99/zig-book) ![](https://img.shields.io/badge/Zig--#ec915c?style=flat-square)
+  - 📝 An open, technical and introductory book for the Zig programming language 📚📖...
+
 - ⭐ [KxSystems/tutorials](https://github.com/KxSystems/tutorials) ![](https://img.shields.io/badge/Jupyter%20Notebook--#DA5B0B?style=flat-square)
 
 - ⭐ [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) ![](https://img.shields.io/badge/Jupyter%20Notebook--#DA5B0B?style=flat-square)
@@ -34,9 +37,6 @@ https://servingniches.org/
 
 - ⭐ [ardalann/statement2csv](https://github.com/ardalann/statement2csv) ![](https://img.shields.io/badge/JavaScript--#f1e05a?style=flat-square)
   - 📝 Convert your bank statement PDF to a standard CSV...
-
-- ⭐ [benjamin-awd/StatementSensei](https://github.com/benjamin-awd/StatementSensei) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
-  - 📝 PDF to CSV conversion for your bank statements...
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -78,5 +78,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2025-10-29 00:13:42 UTC
+🔄 Last updated: 2025-10-30 00:13:46 UTC
 <!-- UPDATED:END -->
