@@ -60,14 +60,14 @@ https://servingniches.org/
 
 # Projects
 
+## AI / ML / Data Science
+[![](https://github-readme-stats.vercel.app/api/pin/?username=rtre84&repo=Spark-Twitter-Sentiment&hide_border=true&theme=dark)](https://github.com/rtre84/Spark-Twitter-Sentiment)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=rtre84&repo=guitar_transcription_service_ml&hide_border=true&theme=dark)](https://github.com/rtre84/guitar_transcription_service_ml)
+
 ## Web
 [![](https://github-readme-stats.vercel.app/api/pin/?username=servingniches&repo=gatsby-servingniches&hide_border=true&theme=dark)](https://github.com/servingniches/gatsby-servingniches)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=rtre84&repo=store.gatsbyjs.org&hide_border=true&theme=dark)](https://github.com/rtre84/store.gatsbyjs.org)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=rtre84&repo=netlify-stackbit-multi-site-example&hide_border=true&theme=dark)](https://github.com/rtre84/netlify-stackbit-multi-site-example)
-
-## Data Science
-[![](https://github-readme-stats.vercel.app/api/pin/?username=rtre84&repo=Spark-Twitter-Sentiment&hide_border=true&theme=dark)](https://github.com/rtre84/Spark-Twitter-Sentiment)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=rtre84&repo=guitar_transcription_service_ml&hide_border=true&theme=dark)](https://github.com/rtre84/guitar_transcription_service_ml)
 
 ## Blockchain
 [![](https://github-readme-stats.vercel.app/api/pin/?username=rtre84&repo=reef-lambda-payments&hide_border=true&theme=dark)](https://github.com/rtre84/reef-lambda-payments)
