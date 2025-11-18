@@ -24,6 +24,9 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [bobeff/open-source-games](https://github.com/bobeff/open-source-games) 
+  - 📝 A list of open source games....
+
 - ⭐ [pedropark99/zig-book](https://github.com/pedropark99/zig-book) ![](https://img.shields.io/badge/Zig--#ec915c?style=flat-square)
   - 📝 An open, technical and introductory book for the Zig programming language 📚📖...
 
@@ -34,9 +37,6 @@ https://servingniches.org/
 
 - ⭐ [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) ![](https://img.shields.io/badge/Jupyter%20Notebook--#DA5B0B?style=flat-square)
   - 📝 Implement a ChatGPT-like LLM in PyTorch from scratch, step by step...
-
-- ⭐ [ardalann/statement2csv](https://github.com/ardalann/statement2csv) ![](https://img.shields.io/badge/JavaScript--#f1e05a?style=flat-square)
-  - 📝 Convert your bank statement PDF to a standard CSV...
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -78,5 +78,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2025-11-17 00:13:35 UTC
+🔄 Last updated: 2025-11-18 00:13:42 UTC
 <!-- UPDATED:END -->
