@@ -24,6 +24,12 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
+  - 📝 Spec-driven development for AI coding assistants....
+
+- ⭐ [github/spec-kit](https://github.com/github/spec-kit) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
+  - 📝 💫 Toolkit to help you get started with Spec-Driven Development...
+
 - ⭐ [bobeff/open-source-games](https://github.com/bobeff/open-source-games) 
   - 📝 A list of open source games....
 
@@ -31,12 +37,6 @@ https://servingniches.org/
   - 📝 An open, technical and introductory book for the Zig programming language 📚📖...
 
 - ⭐ [KxSystems/tutorials](https://github.com/KxSystems/tutorials) ![](https://img.shields.io/badge/Jupyter%20Notebook--#DA5B0B?style=flat-square)
-
-- ⭐ [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) ![](https://img.shields.io/badge/Jupyter%20Notebook--#DA5B0B?style=flat-square)
-  - 📝 A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Financ...
-
-- ⭐ [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) ![](https://img.shields.io/badge/Jupyter%20Notebook--#DA5B0B?style=flat-square)
-  - 📝 Implement a ChatGPT-like LLM in PyTorch from scratch, step by step...
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -78,5 +78,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2025-11-22 00:12:50 UTC
+🔄 Last updated: 2025-11-23 00:15:22 UTC
 <!-- UPDATED:END -->
