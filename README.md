@@ -24,6 +24,9 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [tzmanics/angular-shopify](https://github.com/tzmanics/angular-shopify) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
+  - 📝 （ ﾟ Дﾟ)ノ[ ($) ] An E-Commerce example using Angular, Shopify, & Netlify Functions ...
+
 - ⭐ [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
   - 📝 Spec-driven development for AI coding assistants....
 
@@ -35,8 +38,6 @@ https://servingniches.org/
 
 - ⭐ [pedropark99/zig-book](https://github.com/pedropark99/zig-book) ![](https://img.shields.io/badge/Zig--#ec915c?style=flat-square)
   - 📝 An open, technical and introductory book for the Zig programming language 📚📖...
-
-- ⭐ [KxSystems/tutorials](https://github.com/KxSystems/tutorials) ![](https://img.shields.io/badge/Jupyter%20Notebook--#DA5B0B?style=flat-square)
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -78,5 +79,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2025-11-27 00:13:06 UTC
+🔄 Last updated: 2025-11-28 00:13:16 UTC
 <!-- UPDATED:END -->
