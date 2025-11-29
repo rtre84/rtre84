@@ -24,6 +24,9 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [greatfrontend/black-friday-cyber-monday-deals](https://github.com/greatfrontend/black-friday-cyber-monday-deals) 
+  - 📝 Black Friday deals for developers and designers – templates, devtools, courses, books...
+
 - ⭐ [tzmanics/angular-shopify](https://github.com/tzmanics/angular-shopify) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
   - 📝 （ ﾟ Дﾟ)ノ[ ($) ] An E-Commerce example using Angular, Shopify, & Netlify Functions ...
 
@@ -35,9 +38,6 @@ https://servingniches.org/
 
 - ⭐ [bobeff/open-source-games](https://github.com/bobeff/open-source-games) 
   - 📝 A list of open source games....
-
-- ⭐ [pedropark99/zig-book](https://github.com/pedropark99/zig-book) ![](https://img.shields.io/badge/Zig--#ec915c?style=flat-square)
-  - 📝 An open, technical and introductory book for the Zig programming language 📚📖...
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -79,5 +79,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2025-11-28 00:13:16 UTC
+🔄 Last updated: 2025-11-29 00:13:11 UTC
 <!-- UPDATED:END -->
