@@ -24,6 +24,12 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [steven2358/awesome-blockchain-ai](https://github.com/steven2358/awesome-blockchain-ai) 
+  - 📝 A curated list of Blockchain projects for Artificial Intelligence and Machine Learning...
+
+- ⭐ [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
+  - 📝 Query Engine for AI - The only MCP Server you'll ever need...
+
 - ⭐ [greatfrontend/black-friday-cyber-monday-deals](https://github.com/greatfrontend/black-friday-cyber-monday-deals) 
   - 📝 Black Friday deals for developers and designers – templates, devtools, courses, books...
 
@@ -32,12 +38,6 @@ https://servingniches.org/
 
 - ⭐ [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
   - 📝 Spec-driven development for AI coding assistants....
-
-- ⭐ [github/spec-kit](https://github.com/github/spec-kit) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
-  - 📝 💫 Toolkit to help you get started with Spec-Driven Development...
-
-- ⭐ [bobeff/open-source-games](https://github.com/bobeff/open-source-games) 
-  - 📝 A list of open source games....
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -79,5 +79,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2025-12-18 00:11:58 UTC
+🔄 Last updated: 2025-12-19 00:14:24 UTC
 <!-- UPDATED:END -->
