@@ -24,6 +24,9 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [danja/dogalog](https://github.com/danja/dogalog) ![](https://img.shields.io/badge/JavaScript--#f1e05a?style=flat-square)
+  - 📝 livecoding prolog style...
+
 - ⭐ [steven2358/awesome-blockchain-ai](https://github.com/steven2358/awesome-blockchain-ai) 
   - 📝 A curated list of Blockchain projects for Artificial Intelligence and Machine Learning...
 
@@ -35,9 +38,6 @@ https://servingniches.org/
 
 - ⭐ [tzmanics/angular-shopify](https://github.com/tzmanics/angular-shopify) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
   - 📝 （ ﾟ Дﾟ)ノ[ ($) ] An E-Commerce example using Angular, Shopify, & Netlify Functions ...
-
-- ⭐ [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
-  - 📝 Spec-driven development for AI coding assistants....
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -79,5 +79,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2025-12-20 00:13:52 UTC
+🔄 Last updated: 2025-12-21 00:15:12 UTC
 <!-- UPDATED:END -->
