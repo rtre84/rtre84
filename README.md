@@ -81,5 +81,3 @@ https://servingniches.org/
 <!-- UPDATED:START -->
 🔄 Last updated: 2025-12-26 20:08:56 UTC
 <!-- UPDATED:END -->
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rtre84)](https://git.io/streak-stats)
