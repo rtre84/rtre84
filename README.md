@@ -24,6 +24,11 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [ByteByteGoHq/ml-bytebytego](https://github.com/ByteByteGoHq/ml-bytebytego) 
+
+- ⭐ [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) 
+  - 📝 Explain complex systems using visuals and simple terms. Help you prepare for system design interview...
+
 - ⭐ [danja/dogalog](https://github.com/danja/dogalog) ![](https://img.shields.io/badge/JavaScript--#f1e05a?style=flat-square)
   - 📝 livecoding prolog style...
 
@@ -32,12 +37,6 @@ https://servingniches.org/
 
 - ⭐ [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
   - 📝 Query Engine for AI - The only MCP Server you'll ever need...
-
-- ⭐ [greatfrontend/black-friday-cyber-monday-deals](https://github.com/greatfrontend/black-friday-cyber-monday-deals) 
-  - 📝 Black Friday deals for developers and designers – templates, devtools, courses, books...
-
-- ⭐ [tzmanics/angular-shopify](https://github.com/tzmanics/angular-shopify) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
-  - 📝 （ ﾟ Дﾟ)ノ[ ($) ] An E-Commerce example using Angular, Shopify, & Netlify Functions ...
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -79,5 +78,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2025-12-29 00:15:49 UTC
+🔄 Last updated: 2025-12-30 00:14:06 UTC
 <!-- UPDATED:END -->
