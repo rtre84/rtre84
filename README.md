@@ -24,6 +24,9 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [tw93/Mole](https://github.com/tw93/Mole) ![](https://img.shields.io/badge/Shell--#89e051?style=flat-square)
+  - 📝 🐹 Deep clean and optimize your Mac....
+
 - ⭐ [ByteByteGoHq/ml-bytebytego](https://github.com/ByteByteGoHq/ml-bytebytego) 
 
 - ⭐ [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) 
@@ -34,9 +37,6 @@ https://servingniches.org/
 
 - ⭐ [steven2358/awesome-blockchain-ai](https://github.com/steven2358/awesome-blockchain-ai) 
   - 📝 A curated list of Blockchain projects for Artificial Intelligence and Machine Learning...
-
-- ⭐ [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
-  - 📝 Query Engine for AI - The only MCP Server you'll ever need...
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -78,5 +78,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2025-12-30 00:14:06 UTC
+🔄 Last updated: 2025-12-31 00:14:52 UTC
 <!-- UPDATED:END -->
