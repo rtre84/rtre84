@@ -61,19 +61,20 @@ https://servingniches.org/
 # Projects
 
 ## AI / ML / Data Science
-[![](https://github-readme-stats.vercel.app/api/pin/?username=rtre84&repo=Spark-Twitter-Sentiment&hide_border=true&theme=dark)](https://github.com/rtre84/Spark-Twitter-Sentiment)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=rtre84&repo=guitar_transcription_service_ml&hide_border=true&theme=dark)](https://github.com/rtre84/guitar_transcription_service_ml)
+[![rtre84/guitar_transcription_service_ml - GitHub](https://gh-card.dev/repos/rtre84/guitar_transcription_service_ml.svg)](https://github.com/rtre84/guitar_transcription_service_ml)
+[![rtre84/Spark-Twitter-Sentiment - GitHub](https://gh-card.dev/repos/rtre84/Spark-Twitter-Sentiment.svg)](https://github.com/rtre84/Spark-Twitter-Sentiment)
 
 ## Web
-[![](https://github-readme-stats.vercel.app/api/pin/?username=servingniches&repo=gatsby-servingniches&hide_border=true&theme=dark)](https://github.com/servingniches/gatsby-servingniches)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=rtre84&repo=store.gatsbyjs.org&hide_border=true&theme=dark)](https://github.com/rtre84/store.gatsbyjs.org)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=rtre84&repo=netlify-stackbit-multi-site-example&hide_border=true&theme=dark)](https://github.com/rtre84/netlify-stackbit-multi-site-example)
+[![rtre84/gatsby-servingniches - GitHub](https://gh-card.dev/repos/rtre84/gatsby-servingniches.svg?fullname=)](https://github.com/rtre84/gatsby-servingniches)
+[![rtre84/store.gatsbyjs.org - GitHub](https://gh-card.dev/repos/rtre84/store.gatsbyjs.org.svg?fullname=)](https://github.com/rtre84/store.gatsbyjs.org)
+[![rtre84/netlify-stackbit-multi-site-example - GitHub](https://gh-card.dev/repos/rtre84/netlify-stackbit-multi-site-example.svg?fullname=)](https://github.com/rtre84/netlify-stackbit-multi-site-example)
 
 ## Blockchain
-[![](https://github-readme-stats.vercel.app/api/pin/?username=rtre84&repo=reef-lambda-payments&hide_border=true&theme=dark)](https://github.com/rtre84/reef-lambda-payments)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=cbonoz&repo=vocalcoin&hide_border=true&theme=dark)](https://github.com/cbonoz/vocalcoin)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=rtre84&repo=crypto-soccer&hide_border=true&theme=dark)](https://github.com/rtre84/crypto-soccer)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=rtre84&repo=angular4-truffle-crypto-dapp&hide_border=true&theme=dark)](https://github.com/rtre84/angular4-truffle-crypto-dapp)
+[![rtre84/reef-lambda-payments - GitHub](https://gh-card.dev/repos/rtre84/reef-lambda-payments.svg?fullname=)](https://github.com/rtre84/reef-lambda-payments)
+[![cbonoz/vocalcoin - GitHub](https://gh-card.dev/repos/cbonoz/vocalcoin.svg?fullname=)](https://github.com/cbonoz/vocalcoin)
+[![rtre84/crypto-soccer - GitHub](https://gh-card.dev/repos/rtre84/crypto-soccer.svg?fullname=)](https://github.com/rtre84/crypto-soccer)
+[![rtre84/angular4-truffle-crypto-dapp - GitHub](https://gh-card.dev/repos/rtre84/angular4-truffle-crypto-dapp.svg?fullname=)](https://github.com/rtre84/angular4-truffle-crypto-dapp)
+
 
 ---
 
