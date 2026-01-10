@@ -42,14 +42,14 @@ https://servingniches.org/
 ## 📝 Recent Commits
 
 <!-- COMMITS:START -->
+- 💾 [`5d575eb`](https://github.com/rtre84/random-2d-platformer/commit/5d575eb2cd501aa9f3c0ac2d694f16f40aff5a01) - Added gameplay screenshot.
+  - 📦 Repo: [random-2d-platformer](https://github.com/rtre84/random-2d-platformer) | 📅 Date: 2026-01-09
+
 - 💾 [`e5407b0`](https://github.com/rtre84/rtre84/commit/e5407b0f306beff709ba35f190219d4f3e5edcbd) - Updated env var name.
   - 📦 Repo: [rtre84](https://github.com/rtre84/rtre84) | 📅 Date: 2025-10-16
 
 - 💾 [`c76ce0b`](https://github.com/rtre84/accessible-astro-servingniches-site/commit/c76ce0b8201f8ec1605c6b1e64c97b43f1163038) - Changed form values to match the labels.
   - 📦 Repo: [accessible-astro-servingniches-site](https://github.com/rtre84/accessible-astro-servingniches-site) | 📅 Date: 2025-09-16
-
-- 💾 [`5a007da`](https://github.com/rtre84/spectre-astro-fork/commit/5a007da78366a16b02db4ccd670f68f25dff3c25) - Added blog posts.
-  - 📦 Repo: [spectre-astro-fork](https://github.com/rtre84/spectre-astro-fork) | 📅 Date: 2025-09-01
 
 - 💾 [`9b5b0a6`](https://github.com/rtre84/guitar_transcription_service_ml/commit/9b5b0a6593a4381e177ab290da78d6a535686808) - Pushing working google collab notebook built out as a project for the Newline AI
   - 📦 Repo: [guitar_transcription_service_ml](https://github.com/rtre84/guitar_transcription_service_ml) | 📅 Date: 2025-08-14
@@ -79,5 +79,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-01-09 00:14:25 UTC
+🔄 Last updated: 2026-01-10 00:14:04 UTC
 <!-- UPDATED:END -->
