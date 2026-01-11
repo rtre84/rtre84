@@ -24,6 +24,9 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [romanmichaelpaolucci/Quant-Guild-Library](https://github.com/romanmichaelpaolucci/Quant-Guild-Library) ![](https://img.shields.io/badge/Jupyter%20Notebook--#DA5B0B?style=flat-square)
+  - 📝 A library of Jupyter notebooks and corresponding YouTube lectures by Roman Paolucci...
+
 - ⭐ [tw93/Mole](https://github.com/tw93/Mole) ![](https://img.shields.io/badge/Shell--#89e051?style=flat-square)
   - 📝 🐹 Deep clean and optimize your Mac....
 
@@ -34,9 +37,6 @@ https://servingniches.org/
 
 - ⭐ [danja/dogalog](https://github.com/danja/dogalog) ![](https://img.shields.io/badge/JavaScript--#f1e05a?style=flat-square)
   - 📝 livecoding prolog style...
-
-- ⭐ [steven2358/awesome-blockchain-ai](https://github.com/steven2358/awesome-blockchain-ai) 
-  - 📝 A curated list of Blockchain projects for Artificial Intelligence and Machine Learning...
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -79,5 +79,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-01-10 00:14:04 UTC
+🔄 Last updated: 2026-01-11 00:16:00 UTC
 <!-- UPDATED:END -->
