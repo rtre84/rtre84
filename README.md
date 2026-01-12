@@ -24,6 +24,12 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [Marwannabil92/CryptoNode](https://github.com/Marwannabil92/CryptoNode) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
+  - 📝 At the Edge of Real-time Transaction Processing, CryptoNode Forges Decentralized Clusters, Auto-scal...
+
+- ⭐ [Marwannabil92/SwapForge](https://github.com/Marwannabil92/SwapForge) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
+  - 📝 Real-Time Machine Learning Orchestrator for Containerized Workloads on a Scalable, Intelligent Distr...
+
 - ⭐ [romanmichaelpaolucci/Quant-Guild-Library](https://github.com/romanmichaelpaolucci/Quant-Guild-Library) ![](https://img.shields.io/badge/Jupyter%20Notebook--#DA5B0B?style=flat-square)
   - 📝 A library of Jupyter notebooks and corresponding YouTube lectures by Roman Paolucci...
 
@@ -31,19 +37,13 @@ https://servingniches.org/
   - 📝 🐹 Deep clean and optimize your Mac....
 
 - ⭐ [ByteByteGoHq/ml-bytebytego](https://github.com/ByteByteGoHq/ml-bytebytego) 
-
-- ⭐ [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) 
-  - 📝 Explain complex systems using visuals and simple terms. Help you prepare for system design interview...
-
-- ⭐ [danja/dogalog](https://github.com/danja/dogalog) ![](https://img.shields.io/badge/JavaScript--#f1e05a?style=flat-square)
-  - 📝 livecoding prolog style...
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
 
 <!-- COMMITS:START -->
-- 💾 [`5d575eb`](https://github.com/rtre84/random-2d-platformer/commit/5d575eb2cd501aa9f3c0ac2d694f16f40aff5a01) - Added gameplay screenshot.
-  - 📦 Repo: [random-2d-platformer](https://github.com/rtre84/random-2d-platformer) | 📅 Date: 2026-01-09
+- 💾 [`fc68f4c`](https://github.com/rtre84/random-2d-platformer/commit/fc68f4c1d516ecfec354dfaca2e22d91d613e5ef) - Added walls and additional platforms to existing level. Added redux dev tools as
+  - 📦 Repo: [random-2d-platformer](https://github.com/rtre84/random-2d-platformer) | 📅 Date: 2026-01-11
 
 - 💾 [`e5407b0`](https://github.com/rtre84/rtre84/commit/e5407b0f306beff709ba35f190219d4f3e5edcbd) - Updated env var name.
   - 📦 Repo: [rtre84](https://github.com/rtre84/rtre84) | 📅 Date: 2025-10-16
@@ -79,5 +79,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-01-11 00:16:00 UTC
+🔄 Last updated: 2026-01-12 00:15:16 UTC
 <!-- UPDATED:END -->
