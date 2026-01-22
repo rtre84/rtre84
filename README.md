@@ -42,8 +42,8 @@ https://servingniches.org/
 ## 📝 Recent Commits
 
 <!-- COMMITS:START -->
-- 💾 [`fc68f4c`](https://github.com/rtre84/random-2d-platformer/commit/fc68f4c1d516ecfec354dfaca2e22d91d613e5ef) - Added walls and additional platforms to existing level. Added redux dev tools as
-  - 📦 Repo: [random-2d-platformer](https://github.com/rtre84/random-2d-platformer) | 📅 Date: 2026-01-11
+- 💾 [`e147b6e`](https://github.com/rtre84/random-2d-platformer/commit/e147b6e26d78487c621b3d69e60c7388fb011f24) - Added sprites from https://pixelfrog-assets.itch.io/pixel-adventure-1. Added tes
+  - 📦 Repo: [random-2d-platformer](https://github.com/rtre84/random-2d-platformer) | 📅 Date: 2026-01-21
 
 - 💾 [`e5407b0`](https://github.com/rtre84/rtre84/commit/e5407b0f306beff709ba35f190219d4f3e5edcbd) - Updated env var name.
   - 📦 Repo: [rtre84](https://github.com/rtre84/rtre84) | 📅 Date: 2025-10-16
@@ -79,5 +79,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-01-21 00:14:55 UTC
+🔄 Last updated: 2026-01-22 00:15:17 UTC
 <!-- UPDATED:END -->
