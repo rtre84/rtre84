@@ -24,19 +24,20 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) ![](https://img.shields.io/badge/Shell--#89e051?style=flat-square)
+  - 📝 Autonomous AI development loop for Claude Code with intelligent exit detection...
+
+- ⭐ [virattt/dexter](https://github.com/virattt/dexter) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
+  - 📝 An autonomous agent for deep financial research...
+
+- ⭐ [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) ![](https://img.shields.io/badge/Rust--#dea584?style=flat-square)
+  - 📝 Algorithm powering the For You feed on X...
+
 - ⭐ [anomalyco/opencode](https://github.com/anomalyco/opencode) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
   - 📝 The open source coding agent....
 
 - ⭐ [samuelmtimbo/unit](https://github.com/samuelmtimbo/unit) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
   - 📝 Next Generation Visual Programming System...
-
-- ⭐ [romanmichaelpaolucci/Quant-Guild-Library](https://github.com/romanmichaelpaolucci/Quant-Guild-Library) ![](https://img.shields.io/badge/Jupyter%20Notebook--#DA5B0B?style=flat-square)
-  - 📝 A library of Jupyter notebooks and corresponding YouTube lectures by Roman Paolucci...
-
-- ⭐ [tw93/Mole](https://github.com/tw93/Mole) ![](https://img.shields.io/badge/Shell--#89e051?style=flat-square)
-  - 📝 🐹 Deep clean and optimize your Mac....
-
-- ⭐ [ByteByteGoHq/ml-bytebytego](https://github.com/ByteByteGoHq/ml-bytebytego) 
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -79,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-01-22 00:15:17 UTC
+🔄 Last updated: 2026-01-23 00:15:16 UTC
 <!-- UPDATED:END -->
