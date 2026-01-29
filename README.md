@@ -24,6 +24,9 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
+  - 📝 Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource...
+
 - ⭐ [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) ![](https://img.shields.io/badge/Shell--#89e051?style=flat-square)
   - 📝 Autonomous AI development loop for Claude Code with intelligent exit detection...
 
@@ -35,9 +38,6 @@ https://servingniches.org/
 
 - ⭐ [anomalyco/opencode](https://github.com/anomalyco/opencode) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
   - 📝 The open source coding agent....
-
-- ⭐ [samuelmtimbo/unit](https://github.com/samuelmtimbo/unit) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
-  - 📝 Next Generation Visual Programming System...
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -80,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-01-28 00:15:20 UTC
+🔄 Last updated: 2026-01-29 00:17:13 UTC
 <!-- UPDATED:END -->
