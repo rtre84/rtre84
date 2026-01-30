@@ -24,20 +24,20 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [remotion-dev/remotion](https://github.com/remotion-dev/remotion) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
+  - 📝 🎥      Make videos programmatically with React...
+
+- ⭐ [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) ![](https://img.shields.io/badge/JavaScript--#f1e05a?style=flat-square)
+  - 📝 Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini...
+
+- ⭐ [moltbot/moltbot](https://github.com/moltbot/moltbot) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
+  - 📝 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ...
+
 - ⭐ [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
   - 📝 Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource...
 
 - ⭐ [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) ![](https://img.shields.io/badge/Shell--#89e051?style=flat-square)
   - 📝 Autonomous AI development loop for Claude Code with intelligent exit detection...
-
-- ⭐ [virattt/dexter](https://github.com/virattt/dexter) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
-  - 📝 An autonomous agent for deep financial research...
-
-- ⭐ [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) ![](https://img.shields.io/badge/Rust--#dea584?style=flat-square)
-  - 📝 Algorithm powering the For You feed on X...
-
-- ⭐ [anomalyco/opencode](https://github.com/anomalyco/opencode) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
-  - 📝 The open source coding agent....
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -80,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-01-29 00:17:13 UTC
+🔄 Last updated: 2026-01-30 00:17:34 UTC
 <!-- UPDATED:END -->
