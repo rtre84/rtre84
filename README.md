@@ -30,7 +30,7 @@ https://servingniches.org/
 - ⭐ [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) ![](https://img.shields.io/badge/JavaScript--#f1e05a?style=flat-square)
   - 📝 Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini...
 
-- ⭐ [moltbot/moltbot](https://github.com/moltbot/moltbot) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
+- ⭐ [openclaw/openclaw](https://github.com/openclaw/openclaw) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
   - 📝 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ...
 
 - ⭐ [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
@@ -80,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-01-30 00:17:34 UTC
+🔄 Last updated: 2026-01-31 00:17:07 UTC
 <!-- UPDATED:END -->
