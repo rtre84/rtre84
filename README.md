@@ -24,6 +24,9 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [supermemoryai/claude-supermemory](https://github.com/supermemoryai/claude-supermemory) ![](https://img.shields.io/badge/JavaScript--#f1e05a?style=flat-square)
+  - 📝 Enable Claude Code to learn in real-time, update it's knowledge, and grow with you, using supermemor...
+
 - ⭐ [remotion-dev/remotion](https://github.com/remotion-dev/remotion) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
   - 📝 🎥      Make videos programmatically with React...
 
@@ -35,9 +38,6 @@ https://servingniches.org/
 
 - ⭐ [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
   - 📝 Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource...
-
-- ⭐ [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) ![](https://img.shields.io/badge/Shell--#89e051?style=flat-square)
-  - 📝 Autonomous AI development loop for Claude Code with intelligent exit detection...
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -80,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-02-01 00:20:09 UTC
+🔄 Last updated: 2026-02-02 00:18:27 UTC
 <!-- UPDATED:END -->
