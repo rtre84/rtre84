@@ -24,6 +24,12 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [gmitch215/cmdfx](https://github.com/gmitch215/cmdfx) ![](https://img.shields.io/badge/C--#555555?style=flat-square)
+  - 📝 🎮 A Game Engine for your Terminal...
+
+- ⭐ [M64GitHub/movy](https://github.com/M64GitHub/movy) ![](https://img.shields.io/badge/Zig--#ec915c?style=flat-square)
+  - 📝 A terminal graphics engine for rendering, effects, and animation. Built for games, engines, and visu...
+
 - ⭐ [supermemoryai/claude-supermemory](https://github.com/supermemoryai/claude-supermemory) ![](https://img.shields.io/badge/JavaScript--#f1e05a?style=flat-square)
   - 📝 Enable Claude Code to learn in real-time, update it's knowledge, and grow with you, using supermemor...
 
@@ -32,12 +38,6 @@ https://servingniches.org/
 
 - ⭐ [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) ![](https://img.shields.io/badge/JavaScript--#f1e05a?style=flat-square)
   - 📝 Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini...
-
-- ⭐ [openclaw/openclaw](https://github.com/openclaw/openclaw) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
-  - 📝 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ...
-
-- ⭐ [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
-  - 📝 Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource...
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -80,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-02-04 00:15:53 UTC
+🔄 Last updated: 2026-02-05 00:18:53 UTC
 <!-- UPDATED:END -->
