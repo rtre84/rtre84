@@ -24,20 +24,20 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [libsdl-org/SDL](https://github.com/libsdl-org/SDL) ![](https://img.shields.io/badge/C--#555555?style=flat-square)
+  - 📝 Simple DirectMedia Layer...
+
+- ⭐ [SourMesen/Mesen2](https://github.com/SourMesen/Mesen2) ![](https://img.shields.io/badge/C%2B%2B--#f34b7d?style=flat-square)
+  - 📝 Multi-system emulator (NES, SNES, GB, GBA, PCE, SMS/GG, WS) for Windows, Linux and macOS...
+
+- ⭐ [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
+  - 📝 Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% s...
+
 - ⭐ [gmitch215/cmdfx](https://github.com/gmitch215/cmdfx) ![](https://img.shields.io/badge/C--#555555?style=flat-square)
   - 📝 🎮 A Game Engine for your Terminal...
 
 - ⭐ [M64GitHub/movy](https://github.com/M64GitHub/movy) ![](https://img.shields.io/badge/Zig--#ec915c?style=flat-square)
   - 📝 A terminal graphics engine for rendering, effects, and animation. Built for games, engines, and visu...
-
-- ⭐ [supermemoryai/claude-supermemory](https://github.com/supermemoryai/claude-supermemory) ![](https://img.shields.io/badge/JavaScript--#f1e05a?style=flat-square)
-  - 📝 Enable Claude Code to learn in real-time, update it's knowledge, and grow with you, using supermemor...
-
-- ⭐ [remotion-dev/remotion](https://github.com/remotion-dev/remotion) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
-  - 📝 🎥      Make videos programmatically with React...
-
-- ⭐ [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) ![](https://img.shields.io/badge/JavaScript--#f1e05a?style=flat-square)
-  - 📝 Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini...
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -80,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-02-07 00:18:23 UTC
+🔄 Last updated: 2026-02-08 00:23:57 UTC
 <!-- UPDATED:END -->
