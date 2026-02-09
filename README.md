@@ -24,6 +24,9 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
+  - 📝 practice made claude perfect...
+
 - ⭐ [libsdl-org/SDL](https://github.com/libsdl-org/SDL) ![](https://img.shields.io/badge/C--#555555?style=flat-square)
   - 📝 Simple DirectMedia Layer...
 
@@ -35,9 +38,6 @@ https://servingniches.org/
 
 - ⭐ [gmitch215/cmdfx](https://github.com/gmitch215/cmdfx) ![](https://img.shields.io/badge/C--#555555?style=flat-square)
   - 📝 🎮 A Game Engine for your Terminal...
-
-- ⭐ [M64GitHub/movy](https://github.com/M64GitHub/movy) ![](https://img.shields.io/badge/Zig--#ec915c?style=flat-square)
-  - 📝 A terminal graphics engine for rendering, effects, and animation. Built for games, engines, and visu...
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -80,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-02-08 00:23:57 UTC
+🔄 Last updated: 2026-02-09 00:19:40 UTC
 <!-- UPDATED:END -->
