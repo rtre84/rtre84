@@ -24,6 +24,9 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [Jon-Becker/prediction-market-analysis](https://github.com/Jon-Becker/prediction-market-analysis) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
+  - 📝 A framework for collecting and analyzing prediction market data, including the largest publicly avai...
+
 - ⭐ [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) ![](https://img.shields.io/badge/HTML--#e34c26?style=flat-square)
   - 📝 practice made claude perfect...
 
@@ -35,9 +38,6 @@ https://servingniches.org/
 
 - ⭐ [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
   - 📝 Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% s...
-
-- ⭐ [gmitch215/cmdfx](https://github.com/gmitch215/cmdfx) ![](https://img.shields.io/badge/C--#555555?style=flat-square)
-  - 📝 🎮 A Game Engine for your Terminal...
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -80,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-02-16 00:18:50 UTC
+🔄 Last updated: 2026-02-17 00:19:27 UTC
 <!-- UPDATED:END -->
