@@ -24,6 +24,9 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [accomplish-ai/accomplish](https://github.com/accomplish-ai/accomplish) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
+  - 📝 Accomplish™ (formerly Openwork) is the open source Al coworker that lives on your desktop...
+
 - ⭐ [Jon-Becker/prediction-market-analysis](https://github.com/Jon-Becker/prediction-market-analysis) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
   - 📝 A framework for collecting and analyzing prediction market data, including the largest publicly avai...
 
@@ -35,9 +38,6 @@ https://servingniches.org/
 
 - ⭐ [SourMesen/Mesen2](https://github.com/SourMesen/Mesen2) ![](https://img.shields.io/badge/C%2B%2B--#f34b7d?style=flat-square)
   - 📝 Multi-system emulator (NES, SNES, GB, GBA, PCE, SMS/GG, WS) for Windows, Linux and macOS...
-
-- ⭐ [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
-  - 📝 Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% s...
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -80,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-02-17 00:19:27 UTC
+🔄 Last updated: 2026-02-18 00:19:29 UTC
 <!-- UPDATED:END -->
