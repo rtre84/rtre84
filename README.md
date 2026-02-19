@@ -24,6 +24,12 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) 
+  - 📝 List of Computer Science courses with video lectures....
+
+- ⭐ [alpacahq/gamma-scalping](https://github.com/alpacahq/gamma-scalping) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
+  - 📝 Runnable algo template for gamma scalping options trading strategy...
+
 - ⭐ [accomplish-ai/accomplish](https://github.com/accomplish-ai/accomplish) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
   - 📝 Accomplish™ (formerly Openwork) is the open source Al coworker that lives on your desktop...
 
@@ -32,12 +38,6 @@ https://servingniches.org/
 
 - ⭐ [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) ![](https://img.shields.io/badge/HTML--#e34c26?style=flat-square)
   - 📝 practice made claude perfect...
-
-- ⭐ [libsdl-org/SDL](https://github.com/libsdl-org/SDL) ![](https://img.shields.io/badge/C--#555555?style=flat-square)
-  - 📝 Simple DirectMedia Layer...
-
-- ⭐ [SourMesen/Mesen2](https://github.com/SourMesen/Mesen2) ![](https://img.shields.io/badge/C%2B%2B--#f34b7d?style=flat-square)
-  - 📝 Multi-system emulator (NES, SNES, GB, GBA, PCE, SMS/GG, WS) for Windows, Linux and macOS...
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -80,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-02-18 00:19:29 UTC
+🔄 Last updated: 2026-02-19 00:19:45 UTC
 <!-- UPDATED:END -->
