@@ -24,6 +24,12 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) ![](https://img.shields.io/badge/Rust--#dea584?style=flat-square)
+  - 📝 157 models. 30 providers. One command to find what runs on your hardware....
+
+- ⭐ [SylphAI-Inc/AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
+  - 📝 AdalFlow: The library to build & auto-optimize LLM applications....
+
 - ⭐ [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) 
   - 📝 List of Computer Science courses with video lectures....
 
@@ -32,12 +38,6 @@ https://servingniches.org/
 
 - ⭐ [accomplish-ai/accomplish](https://github.com/accomplish-ai/accomplish) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
   - 📝 Accomplish™ (formerly Openwork) is the open source Al coworker that lives on your desktop...
-
-- ⭐ [Jon-Becker/prediction-market-analysis](https://github.com/Jon-Becker/prediction-market-analysis) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
-  - 📝 A framework for collecting and analyzing prediction market data, including the largest publicly avai...
-
-- ⭐ [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) ![](https://img.shields.io/badge/HTML--#e34c26?style=flat-square)
-  - 📝 practice made claude perfect...
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -80,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-02-21 00:18:06 UTC
+🔄 Last updated: 2026-02-22 00:18:01 UTC
 <!-- UPDATED:END -->
