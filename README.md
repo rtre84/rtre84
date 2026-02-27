@@ -25,7 +25,7 @@ https://servingniches.org/
 
 <!-- STARS:START -->
 - ⭐ [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) ![](https://img.shields.io/badge/Rust--#dea584?style=flat-square)
-  - 📝 206 models. 30 providers. One command to find what runs on your hardware....
+  - 📝 497 models. 133 providers. One command to find what runs on your hardware....
 
 - ⭐ [SylphAI-Inc/AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
   - 📝 AdalFlow: The library to build & auto-optimize LLM applications....
@@ -80,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-02-26 00:16:49 UTC
+🔄 Last updated: 2026-02-27 00:19:33 UTC
 <!-- UPDATED:END -->
