@@ -24,20 +24,20 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [yllvar/Kalshi-Quant-TeleBot](https://github.com/yllvar/Kalshi-Quant-TeleBot) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
+  - 📝 Kalshi Advanced Quantitative Trading Bot is an enterprise-grade automated trading system designed fo...
+
+- ⭐ [warproxxx/poly_data](https://github.com/warproxxx/poly_data) ![](https://img.shields.io/badge/Jupyter%20Notebook--#DA5B0B?style=flat-square)
+  - 📝 Polymarket Data Retriever that fetches, processes, and structures Polymarket data including markets,...
+
+- ⭐ [echandsome/Polymarket-betting-bot](https://github.com/echandsome/Polymarket-betting-bot) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
+  - 📝 A comprehensive TypeScript/Node.js backend system for automated trading on Polymarket. This platform...
+
+- ⭐ [ent0n29/polybot](https://github.com/ent0n29/polybot) ![](https://img.shields.io/badge/Java--#b07219?style=flat-square)
+  - 📝 reverse-engineer every polymarket strategy and trade fast...
+
 - ⭐ [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) ![](https://img.shields.io/badge/Rust--#dea584?style=flat-square)
   - 📝 497 models. 133 providers. One command to find what runs on your hardware....
-
-- ⭐ [SylphAI-Inc/AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
-  - 📝 AdalFlow: The library to build & auto-optimize LLM applications....
-
-- ⭐ [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) 
-  - 📝 List of Computer Science courses with video lectures....
-
-- ⭐ [alpacahq/gamma-scalping](https://github.com/alpacahq/gamma-scalping) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
-  - 📝 Runnable algo template for gamma scalping options trading strategy...
-
-- ⭐ [accomplish-ai/accomplish](https://github.com/accomplish-ai/accomplish) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
-  - 📝 Accomplish™ (formerly Openwork) is the open source Al coworker that lives on your desktop...
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -80,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-02-27 00:19:33 UTC
+🔄 Last updated: 2026-02-28 00:15:51 UTC
 <!-- UPDATED:END -->
