@@ -37,7 +37,7 @@ https://servingniches.org/
   - 📝 reverse-engineer every polymarket strategy and trade fast...
 
 - ⭐ [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) ![](https://img.shields.io/badge/Rust--#dea584?style=flat-square)
-  - 📝 Hundreds models & providers. One command to find what runs on your hardware....
+  - 📝 Hundreds of models & providers. One command to find what runs on your hardware....
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -80,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-03-02 00:17:47 UTC
+🔄 Last updated: 2026-03-03 00:18:54 UTC
 <!-- UPDATED:END -->
