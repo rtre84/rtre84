@@ -24,6 +24,9 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [Oddpool/PredictionMarketBench](https://github.com/Oddpool/PredictionMarketBench) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
+  - 📝 A benchmark for backtesting prediction market trading agents using real Kalshi market replay data....
+
 - ⭐ [yllvar/Kalshi-Quant-TeleBot](https://github.com/yllvar/Kalshi-Quant-TeleBot) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
   - 📝 Kalshi Advanced Quantitative Trading Bot is an enterprise-grade automated trading system designed fo...
 
@@ -35,9 +38,6 @@ https://servingniches.org/
 
 - ⭐ [ent0n29/polybot](https://github.com/ent0n29/polybot) ![](https://img.shields.io/badge/Java--#b07219?style=flat-square)
   - 📝 reverse-engineer every polymarket strategy and trade fast...
-
-- ⭐ [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) ![](https://img.shields.io/badge/Rust--#dea584?style=flat-square)
-  - 📝 Hundreds of models & providers. One command to find what runs on your hardware....
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -80,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-03-11 00:15:42 UTC
+🔄 Last updated: 2026-03-12 00:15:31 UTC
 <!-- UPDATED:END -->
