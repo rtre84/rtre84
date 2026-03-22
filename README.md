@@ -24,6 +24,9 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [garrytan/gstack](https://github.com/garrytan/gstack) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
+  - 📝 Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manag...
+
 - ⭐ [Oddpool/PredictionMarketBench](https://github.com/Oddpool/PredictionMarketBench) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
   - 📝 A benchmark for backtesting prediction market trading agents using real Kalshi market replay data....
 
@@ -35,9 +38,6 @@ https://servingniches.org/
 
 - ⭐ [echandsome/Polymarket-betting-bot](https://github.com/echandsome/Polymarket-betting-bot) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
   - 📝 A comprehensive TypeScript/Node.js backend system for automated trading on Polymarket. This platform...
-
-- ⭐ [ent0n29/polybot](https://github.com/ent0n29/polybot) ![](https://img.shields.io/badge/Java--#b07219?style=flat-square)
-  - 📝 reverse-engineer every polymarket strategy and trade fast...
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -80,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-03-21 00:17:44 UTC
+🔄 Last updated: 2026-03-22 00:19:02 UTC
 <!-- UPDATED:END -->
