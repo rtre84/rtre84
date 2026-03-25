@@ -24,6 +24,9 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
+  - 📝 TradingAgents: Multi-Agents LLM Financial Trading Framework...
+
 - ⭐ [garrytan/gstack](https://github.com/garrytan/gstack) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
   - 📝 Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manag...
 
@@ -35,9 +38,6 @@ https://servingniches.org/
 
 - ⭐ [warproxxx/poly_data](https://github.com/warproxxx/poly_data) ![](https://img.shields.io/badge/Jupyter%20Notebook--#DA5B0B?style=flat-square)
   - 📝 Polymarket Data Retriever that fetches, processes, and structures Polymarket data including markets,...
-
-- ⭐ [echandsome/Polymarket-betting-bot](https://github.com/echandsome/Polymarket-betting-bot) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
-  - 📝 A comprehensive TypeScript/Node.js backend system for automated trading on Polymarket. This platform...
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -80,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-03-24 00:17:10 UTC
+🔄 Last updated: 2026-03-25 00:19:32 UTC
 <!-- UPDATED:END -->
