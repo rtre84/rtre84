@@ -28,7 +28,7 @@ https://servingniches.org/
   - 📝 TradingAgents: Multi-Agents LLM Financial Trading Framework...
 
 - ⭐ [garrytan/gstack](https://github.com/garrytan/gstack) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
-  - 📝 Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manag...
+  - 📝 Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manag...
 
 - ⭐ [Oddpool/PredictionMarketBench](https://github.com/Oddpool/PredictionMarketBench) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
   - 📝 A benchmark for backtesting prediction market trading agents using real Kalshi market replay data....
@@ -80,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-03-30 00:22:42 UTC
+🔄 Last updated: 2026-03-31 00:21:49 UTC
 <!-- UPDATED:END -->
