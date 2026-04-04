@@ -24,20 +24,20 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [karpathy/autoresearch](https://github.com/karpathy/autoresearch) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
+  - 📝 AI agents running research on single-GPU nanochat training automatically...
+
+- ⭐ [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) ![](https://img.shields.io/badge/JavaScript--#f1e05a?style=flat-square)
+  - 📝 A light-weight and powerful meta-prompting, context engineering and spec-driven development system f...
+
+- ⭐ [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) ![](https://img.shields.io/badge/Shell--#89e051?style=flat-square)
+  - 📝 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whi...
+
+- ⭐ [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
+  - 📝 Clone any website with one command using AI coding agents...
+
 - ⭐ [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
   - 📝 TradingAgents: Multi-Agents LLM Financial Trading Framework...
-
-- ⭐ [garrytan/gstack](https://github.com/garrytan/gstack) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
-  - 📝 Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manag...
-
-- ⭐ [Oddpool/PredictionMarketBench](https://github.com/Oddpool/PredictionMarketBench) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
-  - 📝 A benchmark for backtesting prediction market trading agents using real Kalshi market replay data....
-
-- ⭐ [yllvar/Kalshi-Quant-TeleBot](https://github.com/yllvar/Kalshi-Quant-TeleBot) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
-  - 📝 Kalshi Advanced Quantitative Trading Bot is an enterprise-grade automated trading system designed fo...
-
-- ⭐ [warproxxx/poly_data](https://github.com/warproxxx/poly_data) ![](https://img.shields.io/badge/Jupyter%20Notebook--#DA5B0B?style=flat-square)
-  - 📝 Polymarket Data Retriever that fetches, processes, and structures Polymarket data including markets,...
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -80,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-04-03 00:22:05 UTC
+🔄 Last updated: 2026-04-04 00:20:24 UTC
 <!-- UPDATED:END -->
