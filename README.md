@@ -24,6 +24,9 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [marketcalls/openalgo](https://github.com/marketcalls/openalgo) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
+  - 📝 Open Source Algo Trading Platform for Everyone...
+
 - ⭐ [karpathy/autoresearch](https://github.com/karpathy/autoresearch) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
   - 📝 AI agents running research on single-GPU nanochat training automatically...
 
@@ -35,9 +38,6 @@ https://servingniches.org/
 
 - ⭐ [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
   - 📝 Clone any website with one command using AI coding agents...
-
-- ⭐ [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
-  - 📝 TradingAgents: Multi-Agents LLM Financial Trading Framework...
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -80,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-04-12 00:24:15 UTC
+🔄 Last updated: 2026-04-13 00:24:49 UTC
 <!-- UPDATED:END -->
