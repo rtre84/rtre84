@@ -24,6 +24,9 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [arman-bd/guppylm](https://github.com/arman-bd/guppylm) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
+  - 📝 A ~9M parameter LLM that talks like a small fish....
+
 - ⭐ [marketcalls/openalgo](https://github.com/marketcalls/openalgo) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
   - 📝 Open Source Algo Trading Platform for Everyone...
 
@@ -35,9 +38,6 @@ https://servingniches.org/
 
 - ⭐ [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) ![](https://img.shields.io/badge/Shell--#89e051?style=flat-square)
   - 📝 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whi...
-
-- ⭐ [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
-  - 📝 Clone any website with one command using AI coding agents...
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -80,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-04-16 00:28:06 UTC
+🔄 Last updated: 2026-04-17 00:26:29 UTC
 <!-- UPDATED:END -->
