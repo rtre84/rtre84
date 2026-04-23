@@ -24,6 +24,8 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [chrishayuk/larql](https://github.com/chrishayuk/larql) ![](https://img.shields.io/badge/Rust--#dea584?style=flat-square)
+
 - ⭐ [arman-bd/guppylm](https://github.com/arman-bd/guppylm) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
   - 📝 A ~9M parameter LLM that talks like a small fish....
 
@@ -35,9 +37,6 @@ https://servingniches.org/
 
 - ⭐ [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) ![](https://img.shields.io/badge/JavaScript--#f1e05a?style=flat-square)
   - 📝 A light-weight and powerful meta-prompting, context engineering and spec-driven development system f...
-
-- ⭐ [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) ![](https://img.shields.io/badge/Shell--#89e051?style=flat-square)
-  - 📝 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whi...
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -80,5 +79,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-04-22 00:24:04 UTC
+🔄 Last updated: 2026-04-23 00:29:20 UTC
 <!-- UPDATED:END -->
