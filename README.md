@@ -24,6 +24,9 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) 
+  - 📝 A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
+
 - ⭐ [chrishayuk/larql](https://github.com/chrishayuk/larql) ![](https://img.shields.io/badge/Rust--#dea584?style=flat-square)
 
 - ⭐ [arman-bd/guppylm](https://github.com/arman-bd/guppylm) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
@@ -34,9 +37,6 @@ https://servingniches.org/
 
 - ⭐ [karpathy/autoresearch](https://github.com/karpathy/autoresearch) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
   - 📝 AI agents running research on single-GPU nanochat training automatically...
-
-- ⭐ [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) ![](https://img.shields.io/badge/JavaScript--#f1e05a?style=flat-square)
-  - 📝 A light-weight and powerful meta-prompting, context engineering and spec-driven development system f...
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -79,5 +79,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-04-27 00:27:34 UTC
+🔄 Last updated: 2026-04-28 00:30:37 UTC
 <!-- UPDATED:END -->
