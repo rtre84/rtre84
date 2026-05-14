@@ -24,7 +24,7 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
-- ⭐ [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) 
+- ⭐ [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) 
   - 📝 A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
 
 - ⭐ [chrishayuk/larql](https://github.com/chrishayuk/larql) ![](https://img.shields.io/badge/Rust--#dea584?style=flat-square)
@@ -79,5 +79,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-05-13 00:35:18 UTC
+🔄 Last updated: 2026-05-14 00:36:19 UTC
 <!-- UPDATED:END -->
