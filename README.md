@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m a Polyglot Software Engineer in love with everything Web, P2P (Peer to Peer) and Data Analytics. I believe decentralization is the key to solving quite a few of the world's computational problems. Experienced in building web applications, internal tools and big data pipelines in the Robotics, Capital Markets, Publishing, Telecom and Retail spaces. 
+I’m a Polyglot Software Engineer in love with everything Web, P2P (Peer to Peer) and Data Analytics. I believe decentralization is the key to solving quite a few of the world's computational problems. Experienced in building chat bots, web applications, internal tools and big data pipelines in the Banking, Robotics, Capital Markets, Publishing, Telecom and Retail spaces. 
 
 <!--
 **rtre84/rtre84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
