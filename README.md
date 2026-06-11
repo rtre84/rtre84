@@ -24,6 +24,9 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [dada-bots/dadaGP](https://github.com/dada-bots/dadaGP) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
+  - 📝 Encoder/decoder converts GuitarPro songs to/from a token-sequence format for generative language mod...
+
 - ⭐ [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) 
   - 📝 A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
 
@@ -34,9 +37,6 @@ https://servingniches.org/
 
 - ⭐ [marketcalls/openalgo](https://github.com/marketcalls/openalgo) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
   - 📝 Open Source Algo Trading Platform for Everyone...
-
-- ⭐ [karpathy/autoresearch](https://github.com/karpathy/autoresearch) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
-  - 📝 AI agents running research on single-GPU nanochat training automatically...
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -79,5 +79,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-06-10 00:42:27 UTC
+🔄 Last updated: 2026-06-11 00:42:40 UTC
 <!-- UPDATED:END -->
