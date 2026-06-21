@@ -24,6 +24,9 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) ![](https://img.shields.io/badge/JavaScript--#f1e05a?style=flat-square)
+  - 📝 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
+
 - ⭐ [dada-bots/dadaGP](https://github.com/dada-bots/dadaGP) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
   - 📝 Encoder/decoder converts GuitarPro songs to/from a token-sequence format for generative language mod...
 
@@ -34,9 +37,6 @@ https://servingniches.org/
 
 - ⭐ [arman-bd/guppylm](https://github.com/arman-bd/guppylm) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
   - 📝 A ~9M parameter LLM that talks like a small fish....
-
-- ⭐ [marketcalls/openalgo](https://github.com/marketcalls/openalgo) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
-  - 📝 Open Source Algo Trading Platform for Everyone...
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -79,5 +79,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-06-20 00:39:47 UTC
+🔄 Last updated: 2026-06-21 00:43:44 UTC
 <!-- UPDATED:END -->
