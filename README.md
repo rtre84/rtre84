@@ -24,6 +24,9 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [jszmajda/lid](https://github.com/jszmajda/lid) ![](https://img.shields.io/badge/CSS--#663399?style=flat-square)
+  - 📝 Linked-Intent Development - a SDD methodology for agentic coding...
+
 - ⭐ [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) ![](https://img.shields.io/badge/JavaScript--#f1e05a?style=flat-square)
   - 📝 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
 
@@ -34,9 +37,6 @@ https://servingniches.org/
   - 📝 A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
 
 - ⭐ [chrishayuk/larql](https://github.com/chrishayuk/larql) ![](https://img.shields.io/badge/Rust--#dea584?style=flat-square)
-
-- ⭐ [arman-bd/guppylm](https://github.com/arman-bd/guppylm) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
-  - 📝 A ~9M parameter LLM that talks like a small fish....
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -79,5 +79,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-06-23 00:39:42 UTC
+🔄 Last updated: 2026-06-24 00:34:52 UTC
 <!-- UPDATED:END -->
