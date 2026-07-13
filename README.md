@@ -24,6 +24,9 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) ![](https://img.shields.io/badge/HTML--#e34c26?style=flat-square)
+  - 📝 Defines a common protocol for language servers....
+
 - ⭐ [jszmajda/lid](https://github.com/jszmajda/lid) ![](https://img.shields.io/badge/CSS--#663399?style=flat-square)
   - 📝 Linked-Intent Development - a SDD methodology for agentic coding...
 
@@ -35,8 +38,6 @@ https://servingniches.org/
 
 - ⭐ [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) 
   - 📝 A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
-
-- ⭐ [chrishayuk/larql](https://github.com/chrishayuk/larql) ![](https://img.shields.io/badge/Rust--#dea584?style=flat-square)
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -79,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-07-12 02:07:16 UTC
+🔄 Last updated: 2026-07-13 02:08:37 UTC
 <!-- UPDATED:END -->
