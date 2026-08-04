@@ -24,6 +24,9 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [DataExpert-io-Community/data-engineer-handbook_ai](https://github.com/DataExpert-io-Community/data-engineer-handbook_ai) ![](https://img.shields.io/badge/Jupyter%20Notebook--#DA5B0B?style=flat-square)
+  - 📝 This is a repo with links to everything you'd ever want to learn about data engineering...
+
 - ⭐ [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) ![](https://img.shields.io/badge/HTML--#e34c26?style=flat-square)
   - 📝 Defines a common protocol for language servers....
 
@@ -35,14 +38,14 @@ https://servingniches.org/
 
 - ⭐ [dada-bots/dadaGP](https://github.com/dada-bots/dadaGP) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
   - 📝 Encoder/decoder converts GuitarPro songs to/from a token-sequence format for generative language mod...
-
-- ⭐ [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) 
-  - 📝 A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
 
 <!-- COMMITS:START -->
+- 💾 [`7a05da5`](https://github.com/rtre84/loopbench/commit/7a05da598c1f5fb6333d3faa502e9c9ae82c63f1) - First commit.
+  - 📦 Repo: [loopbench](https://github.com/rtre84/loopbench) | 📅 Date: 2026-08-04
+
 - 💾 [`e5407b0`](https://github.com/rtre84/rtre84/commit/e5407b0f306beff709ba35f190219d4f3e5edcbd) - Updated env var name.
   - 📦 Repo: [rtre84](https://github.com/rtre84/rtre84) | 📅 Date: 2025-10-16
 
@@ -54,9 +57,6 @@ https://servingniches.org/
 
 - 💾 [`51a7560`](https://github.com/rtre84/whatNext/commit/51a75602f94d9270e4062ef306f9e35a3217d3f9) - Merge pull request #1 from rtre84/dependabot/pip/python/flask-2.3.2
   - 📦 Repo: [whatNext](https://github.com/rtre84/whatNext) | 📅 Date: 2023-06-15
-
-- 💾 [`39b521e`](https://github.com/rtre84/test-sn-template-feature/commit/39b521e057145f6a8c2556e20d5a8e94c95574a0) - Merge pull request #3 from rtre84/dependabot/npm_and_yarn/decode-uri-component-0
-  - 📦 Repo: [test-sn-template-feature](https://github.com/rtre84/test-sn-template-feature) | 📅 Date: 2023-06-15
 <!-- COMMITS:END -->
 
 # Projects
@@ -80,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-08-03 02:10:26 UTC
+🔄 Last updated: 2026-08-04 01:56:01 UTC
 <!-- UPDATED:END -->
