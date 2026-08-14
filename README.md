@@ -24,6 +24,9 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [capitalone/VulnHunter](https://github.com/capitalone/VulnHunter) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
+  - 📝 Agentic AI security tool that applies proactive, attacker-first analysis directly to source code....
+
 - ⭐ [DataExpert-io-Community/data-engineer-handbook_ai](https://github.com/DataExpert-io-Community/data-engineer-handbook_ai) ![](https://img.shields.io/badge/Jupyter%20Notebook--#DA5B0B?style=flat-square)
   - 📝 This is a repo with links to everything you'd ever want to learn about data engineering...
 
@@ -35,9 +38,6 @@ https://servingniches.org/
 
 - ⭐ [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) ![](https://img.shields.io/badge/JavaScript--#f1e05a?style=flat-square)
   - 📝 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
-
-- ⭐ [dada-bots/dadaGP](https://github.com/dada-bots/dadaGP) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
-  - 📝 Encoder/decoder converts GuitarPro songs to/from a token-sequence format for generative language mod...
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -80,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-08-13 01:21:44 UTC
+🔄 Last updated: 2026-08-14 01:21:16 UTC
 <!-- UPDATED:END -->
