@@ -24,6 +24,9 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [yhilpisch/pyalgocode](https://github.com/yhilpisch/pyalgocode) ![](https://img.shields.io/badge/Jupyter%20Notebook--#DA5B0B?style=flat-square)
+  - 📝 Companion code for "Python for Algorithmic Trading Eﬀicient Markets, Backtesting, and Streaming"....
+
 - ⭐ [capitalone/VulnHunter](https://github.com/capitalone/VulnHunter) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
   - 📝 Agentic AI security tool that applies proactive, attacker-first analysis directly to source code....
 
@@ -35,9 +38,6 @@ https://servingniches.org/
 
 - ⭐ [jszmajda/lid](https://github.com/jszmajda/lid) ![](https://img.shields.io/badge/CSS--#663399?style=flat-square)
   - 📝 Linked-Intent Development - a SDD methodology for agentic coding...
-
-- ⭐ [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) ![](https://img.shields.io/badge/JavaScript--#f1e05a?style=flat-square)
-  - 📝 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -80,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-09-06 02:24:29 UTC
+🔄 Last updated: 2026-09-07 02:20:41 UTC
 <!-- UPDATED:END -->
