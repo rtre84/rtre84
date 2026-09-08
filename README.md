@@ -43,8 +43,11 @@ https://servingniches.org/
 ## 📝 Recent Commits
 
 <!-- COMMITS:START -->
-- 💾 [`7a05da5`](https://github.com/rtre84/loopbench/commit/7a05da598c1f5fb6333d3faa502e9c9ae82c63f1) - First commit.
-  - 📦 Repo: [loopbench](https://github.com/rtre84/loopbench) | 📅 Date: 2026-08-04
+- 💾 [`05cc3d7`](https://github.com/rtre84/loopbench/commit/05cc3d799b9a257f2edfc4a457f70f06423903ae) - Record jobs/timeout in run config and note timing contention for parallel runs
+  - 📦 Repo: [loopbench](https://github.com/rtre84/loopbench) | 📅 Date: 2026-09-08
+
+- 💾 [`c0ad01c`](https://github.com/rtre84/kalshi-ws-fetcher/commit/c0ad01c9efd0ab6a45c78524c300e5a03d87ca69) - Add rate-limit handling and pacing to market discovery (Python + Rust)
+  - 📦 Repo: [kalshi-ws-fetcher](https://github.com/rtre84/kalshi-ws-fetcher) | 📅 Date: 2026-09-07
 
 - 💾 [`e5407b0`](https://github.com/rtre84/rtre84/commit/e5407b0f306beff709ba35f190219d4f3e5edcbd) - Updated env var name.
   - 📦 Repo: [rtre84](https://github.com/rtre84/rtre84) | 📅 Date: 2025-10-16
@@ -54,9 +57,6 @@ https://servingniches.org/
 
 - 💾 [`3680bb1`](https://github.com/rtre84/rtre84.github.io/commit/3680bb1a90393af16fcb037a81ae72b77c38b5b0) - Merge pull request #35 from rtre84/dependabot/npm_and_yarn/postcss-8.4.31
   - 📦 Repo: [rtre84.github.io](https://github.com/rtre84/rtre84.github.io) | 📅 Date: 2024-04-23
-
-- 💾 [`51a7560`](https://github.com/rtre84/whatNext/commit/51a75602f94d9270e4062ef306f9e35a3217d3f9) - Merge pull request #1 from rtre84/dependabot/pip/python/flask-2.3.2
-  - 📦 Repo: [whatNext](https://github.com/rtre84/whatNext) | 📅 Date: 2023-06-15
 <!-- COMMITS:END -->
 
 # Projects
@@ -80,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-09-07 02:20:41 UTC
+🔄 Last updated: 2026-09-08 02:33:14 UTC
 <!-- UPDATED:END -->
