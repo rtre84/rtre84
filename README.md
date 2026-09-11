@@ -33,7 +33,7 @@ https://servingniches.org/
 - ⭐ [DataExpert-io-Community/data-engineer-handbook_ai](https://github.com/DataExpert-io-Community/data-engineer-handbook_ai) ![](https://img.shields.io/badge/Jupyter%20Notebook--#DA5B0B?style=flat-square)
   - 📝 This is a repo with links to everything you'd ever want to learn about data engineering...
 
-- ⭐ [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) ![](https://img.shields.io/badge/HTML--#e34c26?style=flat-square)
+- ⭐ [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
   - 📝 Defines a common protocol for language servers....
 
 - ⭐ [jszmajda/lid](https://github.com/jszmajda/lid) ![](https://img.shields.io/badge/CSS--#663399?style=flat-square)
@@ -80,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-09-10 02:36:12 UTC
+🔄 Last updated: 2026-09-11 02:29:49 UTC
 <!-- UPDATED:END -->
