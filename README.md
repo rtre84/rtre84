@@ -24,6 +24,9 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [mattpocock/skills](https://github.com/mattpocock/skills) ![](https://img.shields.io/badge/Shell--#89e051?style=flat-square)
+  - 📝 Skills for Real Engineers. Straight from my .agents directory....
+
 - ⭐ [yhilpisch/pyalgocode](https://github.com/yhilpisch/pyalgocode) ![](https://img.shields.io/badge/Jupyter%20Notebook--#DA5B0B?style=flat-square)
   - 📝 Companion code for "Python for Algorithmic Trading Eﬀicient Markets, Backtesting, and Streaming"....
 
@@ -35,9 +38,6 @@ https://servingniches.org/
 
 - ⭐ [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
   - 📝 Defines a common protocol for language servers....
-
-- ⭐ [jszmajda/lid](https://github.com/jszmajda/lid) ![](https://img.shields.io/badge/CSS--#663399?style=flat-square)
-  - 📝 Linked-Intent Development - a SDD methodology for agentic coding...
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -80,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-09-15 02:55:12 UTC
+🔄 Last updated: 2026-09-16 02:50:49 UTC
 <!-- UPDATED:END -->
