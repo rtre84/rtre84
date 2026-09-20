@@ -24,6 +24,9 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [nidhi-singh02/agent-router](https://github.com/nidhi-singh02/agent-router) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
+  - 📝 CLI that picks Cursor, Claude Code, Codex, or OpenCode + model/effort for a task, then launches it. ...
+
 - ⭐ [mattpocock/skills](https://github.com/mattpocock/skills) ![](https://img.shields.io/badge/Shell--#89e051?style=flat-square)
   - 📝 Skills for Real Engineers. Straight from my .agents directory....
 
@@ -35,9 +38,6 @@ https://servingniches.org/
 
 - ⭐ [DataExpert-io-Community/data-engineer-handbook_ai](https://github.com/DataExpert-io-Community/data-engineer-handbook_ai) ![](https://img.shields.io/badge/Jupyter%20Notebook--#DA5B0B?style=flat-square)
   - 📝 This is a repo with links to everything you'd ever want to learn about data engineering...
-
-- ⭐ [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
-  - 📝 Defines a common protocol for language servers....
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -80,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-09-19 02:40:09 UTC
+🔄 Last updated: 2026-09-20 02:52:28 UTC
 <!-- UPDATED:END -->
