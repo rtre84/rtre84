@@ -24,6 +24,9 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [awslabs/agentcore-samples](https://github.com/awslabs/agentcore-samples) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
+  - 📝 Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and secu...
+
 - ⭐ [nidhi-singh02/agent-router](https://github.com/nidhi-singh02/agent-router) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
   - 📝 CLI that picks Cursor, Claude Code, Codex, or OpenCode + model/effort for a task, then launches it. ...
 
@@ -35,9 +38,6 @@ https://servingniches.org/
 
 - ⭐ [capitalone/VulnHunter](https://github.com/capitalone/VulnHunter) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
   - 📝 Agentic AI security tool that applies proactive, attacker-first analysis directly to source code....
-
-- ⭐ [DataExpert-io-Community/data-engineer-handbook_ai](https://github.com/DataExpert-io-Community/data-engineer-handbook_ai) ![](https://img.shields.io/badge/Jupyter%20Notebook--#DA5B0B?style=flat-square)
-  - 📝 This is a repo with links to everything you'd ever want to learn about data engineering...
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -80,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-10-06 04:19:43 UTC
+🔄 Last updated: 2026-10-07 03:46:00 UTC
 <!-- UPDATED:END -->
