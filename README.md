@@ -24,6 +24,9 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [morluto/rea](https://github.com/morluto/rea) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
+  - 📝 Reverse engineer anything with agents, from app behavior down to native binaries....
+
 - ⭐ [awslabs/agentcore-samples](https://github.com/awslabs/agentcore-samples) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
   - 📝 Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and secu...
 
@@ -35,9 +38,6 @@ https://servingniches.org/
 
 - ⭐ [yhilpisch/pyalgocode](https://github.com/yhilpisch/pyalgocode) ![](https://img.shields.io/badge/Jupyter%20Notebook--#DA5B0B?style=flat-square)
   - 📝 Companion code for "Python for Algorithmic Trading Eﬀicient Markets, Backtesting, and Streaming"....
-
-- ⭐ [capitalone/VulnHunter](https://github.com/capitalone/VulnHunter) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
-  - 📝 Agentic AI security tool that applies proactive, attacker-first analysis directly to source code....
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -80,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-10-12 03:47:11 UTC
+🔄 Last updated: 2026-10-13 04:58:44 UTC
 <!-- UPDATED:END -->
