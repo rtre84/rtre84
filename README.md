@@ -24,6 +24,9 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [LLMQuant/awesome-trading-agents](https://github.com/LLMQuant/awesome-trading-agents) 
+  - 📝 Curated list of LLM-driven trading agents, MCP servers, and agent skills for market research, strate...
+
 - ⭐ [morluto/rea](https://github.com/morluto/rea) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
   - 📝 Reverse engineer anything with agents, from app behavior down to native binaries....
 
@@ -35,9 +38,6 @@ https://servingniches.org/
 
 - ⭐ [mattpocock/skills](https://github.com/mattpocock/skills) ![](https://img.shields.io/badge/Shell--#89e051?style=flat-square)
   - 📝 Skills for Real Engineers. Straight from my .agents directory....
-
-- ⭐ [yhilpisch/pyalgocode](https://github.com/yhilpisch/pyalgocode) ![](https://img.shields.io/badge/Jupyter%20Notebook--#DA5B0B?style=flat-square)
-  - 📝 Companion code for "Python for Algorithmic Trading Eﬀicient Markets, Backtesting, and Streaming"....
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -80,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-10-14 03:05:46 UTC
+🔄 Last updated: 2026-10-15 02:45:22 UTC
 <!-- UPDATED:END -->
