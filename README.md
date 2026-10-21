@@ -24,6 +24,9 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [0vm/Commit-Graph-Spoof](https://github.com/0vm/Commit-Graph-Spoof) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
+  - 📝 Modify your contribution graph to show the dates starting from 1970 on your profile....
+
 - ⭐ [LLMQuant/awesome-trading-agents](https://github.com/LLMQuant/awesome-trading-agents) 
   - 📝 Curated list of LLM-driven trading agents, MCP servers, and agent skills for market research, strate...
 
@@ -35,9 +38,6 @@ https://servingniches.org/
 
 - ⭐ [nidhi-singh02/agent-router](https://github.com/nidhi-singh02/agent-router) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
   - 📝 CLI that picks Cursor, Claude Code, Codex, or OpenCode + model/effort for a task, then launches it. ...
-
-- ⭐ [mattpocock/skills](https://github.com/mattpocock/skills) ![](https://img.shields.io/badge/Shell--#89e051?style=flat-square)
-  - 📝 Skills for Real Engineers. Straight from my .agents directory....
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -80,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-10-20 02:58:51 UTC
+🔄 Last updated: 2026-10-21 02:53:07 UTC
 <!-- UPDATED:END -->
