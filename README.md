@@ -24,6 +24,9 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [XiangpengHao/bbtree](https://github.com/XiangpengHao/bbtree) ![](https://img.shields.io/badge/Rust--#dea584?style=flat-square)
+  - 📝 Fastest concurrent ordered map...
+
 - ⭐ [0vm/Commit-Graph-Spoof](https://github.com/0vm/Commit-Graph-Spoof) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
   - 📝 Modify your contribution graph to show the dates starting from 1970 on your profile....
 
@@ -35,9 +38,6 @@ https://servingniches.org/
 
 - ⭐ [awslabs/agentcore-samples](https://github.com/awslabs/agentcore-samples) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
   - 📝 Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and secu...
-
-- ⭐ [nidhi-singh02/agent-router](https://github.com/nidhi-singh02/agent-router) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
-  - 📝 CLI that picks Cursor, Claude Code, Codex, or OpenCode + model/effort for a task, then launches it. ...
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -80,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-10-25 02:45:00 UTC
+🔄 Last updated: 2026-10-26 02:42:37 UTC
 <!-- UPDATED:END -->
