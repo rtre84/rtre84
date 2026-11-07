@@ -43,6 +43,9 @@ https://servingniches.org/
 ## 📝 Recent Commits
 
 <!-- COMMITS:START -->
+- 💾 [`f1d0a23`](https://github.com/rtre84/epat-flow-wolf-swarm-options/commit/f1d0a236663f8db2d34fd1d9f75c6d8e701ffad0) - Phase 5: daily flow, learning loop, state docs
+  - 📦 Repo: [epat-flow-wolf-swarm-options](https://github.com/rtre84/epat-flow-wolf-swarm-options) | 📅 Date: 2026-11-07
+
 - 💾 [`05cc3d7`](https://github.com/rtre84/loopbench/commit/05cc3d799b9a257f2edfc4a457f70f06423903ae) - Record jobs/timeout in run config and note timing contention for parallel runs
   - 📦 Repo: [loopbench](https://github.com/rtre84/loopbench) | 📅 Date: 2026-09-08
 
@@ -54,9 +57,6 @@ https://servingniches.org/
 
 - 💾 [`9b5b0a6`](https://github.com/rtre84/guitar_transcription_service_ml/commit/9b5b0a6593a4381e177ab290da78d6a535686808) - Pushing working google collab notebook built out as a project for the Newline AI
   - 📦 Repo: [guitar_transcription_service_ml](https://github.com/rtre84/guitar_transcription_service_ml) | 📅 Date: 2025-08-14
-
-- 💾 [`3680bb1`](https://github.com/rtre84/rtre84.github.io/commit/3680bb1a90393af16fcb037a81ae72b77c38b5b0) - Merge pull request #35 from rtre84/dependabot/npm_and_yarn/postcss-8.4.31
-  - 📦 Repo: [rtre84.github.io](https://github.com/rtre84/rtre84.github.io) | 📅 Date: 2024-04-23
 <!-- COMMITS:END -->
 
 # Projects
@@ -80,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-11-06 04:40:45 UTC
+🔄 Last updated: 2026-11-07 04:06:37 UTC
 <!-- UPDATED:END -->
