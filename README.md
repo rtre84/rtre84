@@ -24,6 +24,9 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
+  - 📝 Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can e...
+
 - ⭐ [XiangpengHao/bbtree](https://github.com/XiangpengHao/bbtree) ![](https://img.shields.io/badge/Rust--#dea584?style=flat-square)
   - 📝 Fastest concurrent ordered map...
 
@@ -35,9 +38,6 @@ https://servingniches.org/
 
 - ⭐ [awslabs/agentcore-samples](https://github.com/awslabs/agentcore-samples) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
   - 📝 Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and secu...
-
-- ⭐ [nidhi-singh02/agent-router](https://github.com/nidhi-singh02/agent-router) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
-  - 📝 CLI that picks Cursor, Claude Code, Codex, or OpenCode + model/effort for a task, then launches it. ...
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -80,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-11-11 04:09:10 UTC
+🔄 Last updated: 2026-11-12 05:20:49 UTC
 <!-- UPDATED:END -->
