@@ -24,6 +24,9 @@ https://servingniches.org/
 ## 🌟 Latest Starred Repositories
 
 <!-- STARS:START -->
+- ⭐ [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) ![](https://img.shields.io/badge/JavaScript--#f1e05a?style=flat-square)
+  - 📝 See how your app actually fits together. An interactive, plain-English map of your codebase, drawn b...
+
 - ⭐ [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
   - 📝 Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can e...
 
@@ -35,9 +38,6 @@ https://servingniches.org/
 
 - ⭐ [morluto/rea](https://github.com/morluto/rea) ![](https://img.shields.io/badge/TypeScript--#3178c6?style=flat-square)
   - 📝 Reverse engineer anything with agents, from app behavior down to native binaries....
-
-- ⭐ [awslabs/agentcore-samples](https://github.com/awslabs/agentcore-samples) ![](https://img.shields.io/badge/Python--#3572A5?style=flat-square)
-  - 📝 Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and secu...
 <!-- STARS:END -->
 
 ## 📝 Recent Commits
@@ -80,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-11-23 05:11:34 UTC
+🔄 Last updated: 2026-11-24 07:55:37 UTC
 <!-- UPDATED:END -->
