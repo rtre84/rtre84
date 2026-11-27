@@ -43,8 +43,8 @@ https://servingniches.org/
 ## 📝 Recent Commits
 
 <!-- COMMITS:START -->
-- 💾 [`e3080c3`](https://github.com/rtre84/epat-flow-wolf-swarm-options/commit/e3080c3f9e77625c032d8ca4de985959b55e2d81) - docs: record phase 9 commit hash (980b143) in STATE.md
-  - 📦 Repo: [epat-flow-wolf-swarm-options](https://github.com/rtre84/epat-flow-wolf-swarm-options) | 📅 Date: 2026-11-26
+- 💾 [`1dc1608`](https://github.com/rtre84/epat-flow-wolf-swarm-options/commit/1dc1608df2db7a9bcc71eb635960697c032cda69) - data: 4-year baseline study — mechanical flow edge is a null
+  - 📦 Repo: [epat-flow-wolf-swarm-options](https://github.com/rtre84/epat-flow-wolf-swarm-options) | 📅 Date: 2026-11-27
 
 - 💾 [`05cc3d7`](https://github.com/rtre84/loopbench/commit/05cc3d799b9a257f2edfc4a457f70f06423903ae) - Record jobs/timeout in run config and note timing contention for parallel runs
   - 📦 Repo: [loopbench](https://github.com/rtre84/loopbench) | 📅 Date: 2026-09-08
@@ -80,5 +80,5 @@ https://servingniches.org/
 ---
 
 <!-- UPDATED:START -->
-🔄 Last updated: 2026-11-26 06:22:43 UTC
+🔄 Last updated: 2026-11-27 06:12:02 UTC
 <!-- UPDATED:END -->
